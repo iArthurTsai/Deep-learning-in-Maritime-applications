@@ -9,4 +9,4 @@
 
 1. D. K. Prasad, D. Rajan, L. Rachmawati, E. Rajabaly, and C. Quek, “Video Processing from Electro-optical Sensors for Object Detection and Tracking in Maritime Environment: A Survey,” *IEEE Transactions on Intelligent Transportation Systems*, vol. 18, no. 10, pp. 2591-2608, Oct. 2017.
 
-2. Tilemachos Bontzorlos, "Singapore Maritime Dataset trained Deep Learning models," GitHub repository, [Online]. Available: [https://github.com/tilemmpon/Singapore-Maritime-Dataset-Trained-Deep-Learning-Models](https://github.com/tilemmpon/Singapore-Maritime-Dataset-Trained-Deep-Learning-Models). Accessed: [2024/01/10].
+2. Tilemachos Bontzorlos, "Singapore Maritime Dataset trained Deep Learning models," GitHub repository, [Online]. Available: [https://github.com/tilemmpon/Singapore-Maritime-Dataset-Trained-Deep-Learning-Models](https://github.com/tilemmpon/Singapore-Maritime-Dataset-Trained-Deep-Learning-Models). Accessed: [2025/01/10].
